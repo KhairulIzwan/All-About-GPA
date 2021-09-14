@@ -14,9 +14,9 @@ sudo bash gpa_21.2.1624350604_release_m64_deb_install.sh
 
 ## Supported Graphics APIs
 
-| API         | Windows Host | Ubuntu Host | macOS Host |
-| ----------- |  ----------- | ----------- | -----------|
-| DirectX     | Title        |
-| Vulkan      | Text         |
-| Metal       | Text         |
-| OpenGL      | Text         |
+| API         | Windows Host       | Ubuntu Host | macOS Host |
+| ----------- |  -----------       | ----------- | -----------|
+| DirectX     | :heavy_check_mark: | Text               | Text               |
+| Vulkan      | Text               | Text               | Text               |
+| Metal       | Text               | Text               | Text               |
+| OpenGL      | Text               | Text               | Text               |
