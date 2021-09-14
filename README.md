@@ -17,6 +17,6 @@ sudo bash gpa_21.2.1624350604_release_m64_deb_install.sh
 | API         | Windows Host       | Ubuntu Host | macOS Host |
 | ----------- |  -----------       | ----------- | -----------|
 | DirectX     | :heavy_check_mark: | Text               | Text               |
-| Vulkan      | Text               | Text               | Text               |
-| Metal       | Text               | Text               | Text               |
-| OpenGL      | Text               | Text               | Text               |
+| Vulkan      | :heavy_check_mark: | Text               | Text               |
+| Metal       |         :x:        | Text               | Text               |
+| OpenGL      |         :x:        | Text               | Text               |
